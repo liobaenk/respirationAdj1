@@ -8,7 +8,7 @@ Besides behavioural responses (detection: Yes/No; confidence: Sure/Unsure), EEG,
 
 **Project lead** : MSc Lioba Enk<br>
 **Principle investigator** : Prof Arno Villringer<br>
-**Furhter collaborators** : [BSc Büşra Çilburunoğlu](https://github.com/Kafakagidi) (MA Thesis), [MSc Carina Forster](https://github.com/CarinaFo), [Prof Hugo Critchley](https://www.bsms.ac.uk/about/contact-us/staff/professor-hugo-d-critchley.aspx), Antonia Werner (BSc intern, Jan-March 2026), MSc Lea Kërçiku (Lab Rotation, Feb-May 2026)<br>
+**Further collaborators** : [BSc Büşra Çilburunoğlu](https://github.com/Kafakagidi) (MA Thesis), [MSc Carina Forster](https://github.com/CarinaFo), [Prof Hugo Critchley](https://www.bsms.ac.uk/about/contact-us/staff/professor-hugo-d-critchley.aspx), Antonia Werner (BSc intern, Jan-March 2026), MSc Lea Kërçiku (Lab Rotation, Feb-May 2026)<br>
 **Location** : [Department of Neurology](https://www.cbs.mpg.de/departments/neurology), Max Planck Institute of Human Cognitive and Brain Sciences, Leipzig, Germany
 
 
@@ -21,7 +21,7 @@ and its somatosensory perception*. Poster at 13th MindBrainBody Symposium, Berli
 
 ---
 
-##### CRediT (according to Allen et al., *Learned Publishing* 2019)
+##### CRediT
 
 Conceptualization, L.E., A.V., H.C.; Methodology, L.E.; Ethics submission, L.E., C.F., A.V.; Experimental workflow (Software, Setup, Validation), L.E., B.C.; Investigation, B.C., L.E.; Resources, A.V.; Supervision, A.V., H.C.; Funding acquisition, A.V.; Project administration, L.E.<br>
 We thank Antonia Werner, Lea Kërçiku, Marta Martin, Ramona Menger and Ulrike Barth for their assistance with EEG cap preparation, and Antonia Werner and Lea Kërçiku for their additional efforts in data curation.
