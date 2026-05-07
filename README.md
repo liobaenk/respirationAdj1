@@ -8,7 +8,7 @@ Besides behavioural responses (detection: Yes/No; confidence: Yes/No), EEG, ECG 
 
 **Project lead** : MSc Lioba Enk<br>
 **Principle investigator** : Prof Arno Villringer<br>
-**Team** : [BSc Büşra Çilburunoğlu (MA Thesis)](https://github.com/Kafakagidi), [MSc Carina Forster](https://github.com/CarinaFo), [Prof Hugo Critchley](https://www.bsms.ac.uk/about/contact-us/staff/professor-hugo-d-critchley.aspx), Antonia Werner (BSc intern, Jan-March 2026), MSc Lea Kërçiku (Lab Rotation, Feb-May 2026)<br>
+**Furhter collaborators** : [BSc Büşra Çilburunoğlu (MA Thesis)](https://github.com/Kafakagidi), [MSc Carina Forster](https://github.com/CarinaFo), [Prof Hugo Critchley](https://www.bsms.ac.uk/about/contact-us/staff/professor-hugo-d-critchley.aspx), Antonia Werner (BSc intern, Jan-March 2026), MSc Lea Kërçiku (Lab Rotation, Feb-May 2026)<br>
 **Location** : [Department of Neurology](https://www.cbs.mpg.de/departments/neurology), Max Planck Institute of Human Cognitive and Brain Sciences, Leipzig, Germany
 
 
