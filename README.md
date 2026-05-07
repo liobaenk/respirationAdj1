@@ -24,7 +24,7 @@ and its somatosensory perception*. Poster at 13th MindBrainBody Symposium, Berli
 ##### CRediT (according to Allen et al., *Learned Publishing* 2019)
 
 Conceptualization, L.E., A.V., H.C.; Methodology, L.E.; Ethics submission, L.E., C.F., A.V.; Experimental workflow (Software, Setup, Validation), L.E., B.C.; Investigation, B.C., L.E.; Resources, A.V.; Supervision, A.V., H.C.; Funding acquisition, A.V.; Project administration, L.E.<br>
-We thank Antonia Werner, Lea Kërçiku, and Ramona Menger for their assistance with EEG cap preparation, and Antonia Werner and Lea Kërçiku for their additional efforts in data curation.
+We thank Antonia Werner, Lea Kërçiku, Marta Martin, Ramona Menger and Ulrike Barth for their assistance with EEG cap preparation, and Antonia Werner and Lea Kërçiku for their additional efforts in data curation.
 
 ---
 
