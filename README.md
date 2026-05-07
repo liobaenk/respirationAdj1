@@ -4,7 +4,7 @@
 Behavioural experiments that investigate somatosensory detection and detection confidence in non-clinical adults in relation to (within-person) ryhthmic trial sequence embedding (and its effects on respiration/brain function and perceptual performance): RhyF (Rhythmic Fast), RhyS (Rhythmic Slow), RanS (Random Slow).
 Besides behavioural responses (detection: Yes/No; confidence: Sure/Unsure), EEG, ECG and respiration (thermistor) will be recorded online.
 
-**Pre-registration** : to-be-uploaded
+**Pre-registration** : https://osf.io/ya7wz (project)
 
 **Project lead** : MSc Lioba Enk<br>
 **Principle investigator** : Prof Arno Villringer<br>
