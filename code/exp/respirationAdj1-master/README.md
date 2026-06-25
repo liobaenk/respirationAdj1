@@ -27,7 +27,7 @@
   - Psychtoolbox v3.0.19 (http://psychtoolbox.org)
   - GStreamer v1.0
   - Palamedes Toolbox v1.9.0 (http://palamedestoolbox.org) [included in the repository]
-  - Mex-file plug-in for MATLAB port I/O access on 64-bit Windows (http://apps.usd.edu/coglab/psyc770/IO32on64.html)
+  - Mex-file plug-in for MATLAB port I/O access on 64-bit Windows [included in the repository]
   
 ---
 
