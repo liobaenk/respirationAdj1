@@ -17,6 +17,7 @@
 - Parallel port for binary button response box
 - Binary button response box
 - Monitor (EIZO FlexScan 2133; Resolution 1600 x 1200 pixels [UXGA], Refresh rate 60 Hz)
+- EEG shielded room/box
 
 #### Software
 
