@@ -1,5 +1,5 @@
 ## respirationAdj1 (Study 1 - rsAirflow)
-*Respiratory adaptation to temporal regularity and its role in somatosensory perception*
+*Respiratory adaptation to temporal regularity and speed and its role in somatosensory perception*
 
 Behavioural experiments that investigate somatosensory detection and detection confidence in non-clinical adults in relation to (within-person) ryhthmic trial sequence embedding (and its effects on respiration/brain function and perceptual performance): RhyF (Rhythmic Fast), RhyS (Rhythmic Slow), RanS (Random Slow).
 Besides behavioural responses (detection: Yes/No; confidence: Sure/Unsure), EEG, ECG and respiration (thermistor) will be recorded online.
