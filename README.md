@@ -14,8 +14,7 @@ Besides behavioural responses (detection: Yes/No; confidence: Sure/Unsure), EEG,
 
 ---
 
-##### First results
-
+##### Research motivation & piloting results
 Enk, L., Çilburunoğlu, B., Forster, C., Critchley, H., & Villringer, A. (2026). *Respiratory adaptation to temporal regularity
 and its somatosensory perception*. Poster at 13th MindBrainBody Symposium, Berlin (09–11 March). [Link to PDF](https://www.cbs.mpg.de/2436245/c04_enk.pdf)
 
