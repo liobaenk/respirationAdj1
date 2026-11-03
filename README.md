@@ -23,10 +23,5 @@ and its somatosensory perception*. Poster at 13th MindBrainBody Symposium, Berli
 ##### CRediT
 
 Conceptualization, L.E., A.V., H.C.; Methodology, L.E.; Ethics submission, L.E., C.F., A.V.; Experimental workflow (Software, Setup, Validation), L.E., B.C.; Investigation, B.C., L.E.; Resources, A.V.; Supervision, A.V., H.C.; Funding acquisition, A.V.; Project administration, L.E.<br>
-We thank Antonia Werner, Ramona Menger, Lea Kërçiku, Rena Bayramova, Rosa Großmann, Ana Böke, Paul Steinfath, Marta Martin and Ulrike Barth for their assistance with EEG cap preparation, and Antonia Werner and Lea Kërçiku for their additional efforts in data curation.
 
----
-
-##### Piloting
-
-Thanks to Emma Nesbit, Paul Steinfath, Alina Studenova, Marianna E. Schmidt, Bhavana Adiraju, Rena Bayramova, Ege Kingir, Niklas Kroner-Weigl, Thomas Lösche, Xia Zhang, Agata Patyczek, Felix Büttner, and Büşra Çilburunoğlu for help with nose clip piloting. We thank Ege Kingir, Antonia Haddenhorst, Divya zu Eltz, Fizzah Haider, Lea Kërçiku and Marta Martin for serving as pilot participants in this experiment.
+We thank Antonia Werner, Ramona Menger, Lea Kërçiku, Rena Bayramova, Rosa Großmann, Ana Böke, Paul Steinfath, Marta Martin and Ulrike Barth for their assistance with EEG cap preparation, and Antonia Werner and Lea Kërçiku for their additional efforts in data curation. We further thank Emma Nesbit, Paul Steinfath, Alina Studenova, Marianna E. Schmidt, Bhavana Adiraju, Rena Bayramova, Ege Kingir, Niklas Kroner-Weigl, Thomas Lösche, Xia Zhang, Agata Patyczek, Felix Büttner, and Büşra Çilburunoğlu for help with nose clip piloting. Lastly, we thank Ege Kingir, Antonia Haddenhorst, Divya zu Eltz, Fizzah Haider, Lea Kërçiku and Marta Martin for serving as pilot participants in this experiment.
